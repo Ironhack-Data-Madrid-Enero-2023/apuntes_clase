@@ -59,7 +59,7 @@
 + **M:** Testeo de hipótesis 
 + **X:** Más Testeo de hipótesis
 + **J:** AB testing (Bayes)
-+ **V:** CRO Activity
++ **V:** Proyecto Stats
 
 
 
