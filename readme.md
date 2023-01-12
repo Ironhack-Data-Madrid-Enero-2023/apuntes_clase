@@ -18,7 +18,7 @@
 
 + **L:** Álgebra / Numpy / Intro Pandas
 + **M:** Pandas Deepdive
-+ **X:** Data Cleaning      
++ **X:** Data Cleaning  (Outcomes Touchpoint 1)     
 + **J:** Data Cleaning 2
 + **V:** Proyecto Limpieza (Sharks)
 
@@ -26,7 +26,7 @@
 
 ### Semana 3 - Carga (bases de datos)
 
-+ **L:** Intro bases de datos / SQL (Outcomes Touchpoint 1)
++ **L:** Intro bases de datos / SQL 
 + **M:** SQL Queries
 + **X:** SQL en Python / Postgres 
 + **J:** MongoDB /Geolocalización
